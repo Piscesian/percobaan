@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/qXQ/70jzMxLIS43RIDP/kr6UjTS1se28qCKEkYioV2L8kYv89WmVTOdCSdsLEbkobksz+R1MqLFrfBBz/xng==",
+  "success": true,
+  "projectFilePath": "C:\\Anwar\\TaskCR26613\\Percobaan\\Percobaan\\Percobaan\\Percobaan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\1243\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}
